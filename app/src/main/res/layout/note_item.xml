@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xmln="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutNote"
+    android:layout_marginLeft="12dp"
+    android:layout_marginTop="12dp"
+    android:background="@drawable/bg_note"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/imageNote_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmln:riv_corner_radius_top_right="10dp"
+        xmln:riv_corner_radius_top_left="10dp"
+        android:visibility="gone"
+        android:adjustViewBounds="true"/>
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:fontFamily="@font/averia_gruesa_libre"
+        android:includeFontPadding="false"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_margin="8dp"/>
+
+    <TextView
+        android:id="@+id/textNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:textSize="14dp"
+        android:textColor="@color/purple_700"
+        android:fontFamily="@font/averia_gruesa_libre"/>
+
+    <TextView
+        android:id="@+id/textDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CCCCCC"
+        android:padding="3dp"
+        android:textAlignment="center"
+        android:textSize="10sp"
+        android:textColor="@color/purple_700"
+        android:fontFamily="@font/averia_gruesa_libre"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"/>
+</LinearLayout>

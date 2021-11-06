@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_bottom_sheet.xml" value="0.536" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_button_radius.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_indicator.xml" value="0.2390194075587334" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note_color.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note_color2.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note_color3.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note_color4.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note_color5.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note_color6.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_note_colr.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_save.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bg_transparant.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bottom_sheet_pop.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/bottom_sheet_reminder.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/reminder_bg.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/reminder_bg2.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/reminder_bg3.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/reminder_bg4.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/round_corners.xml" value="0.23544433094994893" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/drawable/search_bg.xml" value="0.24375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_add_new_notes.xml" value="0.264" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_add_new_notes2.xml" value="0.16113744075829384" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_add_new_reminder.xml" value="0.31746031746031744" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_add_new_shopping_list.xml" value="0.2" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_register.xml" value="0.176" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_reset_password.xml" value="0.2234375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_splash_kawai.xml" value="0.2234375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_suceess_change_password.xml" value="0.2234375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_verify_email_reset_password.xml" value="0.2234375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/activity_welcome.xml" value="0.264" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/bottom_sheet_pop.xml" value="0.2837370242214533" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/buttom_sheet_reminderpop.xml" value="0.264" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/fragment_my_notes.xml" value="0.2" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/fragment_reminder.xml" value="0.2234375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/fragment_shopping_list.xml" value="0.264" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/layout/note_item.xml" value="0.2234375" />
+        <entry key="..\:/Users/MiyukiKoishiro/Development/MOBILE/KawaiNotes/app/src/main/res/menu/menu.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kawai Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kawai_notes">Kawai Notes</string>
+    <string name="register">Register</string>
+    <string name="full_name">full name</string>
+    <string name="email_address">email address</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in">Log In</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_reset_code">enter reset code</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="enter_new_password">enter new password</string>
+</resources>
